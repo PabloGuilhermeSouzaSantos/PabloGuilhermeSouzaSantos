@@ -3,7 +3,7 @@
 **`Desenvolvedor Web`**
 
 
-Tenho 18 anos, sou da Bahia e atualmente curso **Análise e Desenvolvimento de Sistemas** no IFBA.
+ Tenho 18 anos, sou da Bahia e atualmente curso **Análise e Desenvolvimento de Sistemas** no IFBA.
 
 Sou apaixonado por programação e por resolver problemas com código. Tô sempre estudando, testando, quebrando e consertando coisas. Pra mim, não existe erro, existe aprendizado.
 
